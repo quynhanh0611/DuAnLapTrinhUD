@@ -1,0 +1,124 @@
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\appsettings.json
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.exe
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.deps.json
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.runtimeconfig.json
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.runtimeconfig.dev.json
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\ref\BlazorWebEC.API.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\ViewModelCommon.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\ViewModelCommon.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.csproj.AssemblyReference.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.AssemblyInfoInputs.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.AssemblyInfo.cs
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.csproj.CoreCompileInputs.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\scopedcss\bundle\BlazorWebEC.API.styles.css
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\staticwebassets\BlazorWebEC.API.StaticWebAssets.Manifest.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.RazorTargetAssemblyInfo.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.csproj.CopyComplete
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\ref\BlazorWebEC.API.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.exe
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.deps.json
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\BlazorWebEC.API.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\ViewModelCommon.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\bin\Debug\net5.0\ViewModelCommon.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\scopedcss\bundle\BlazorWebEC.API.styles.css
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\staticwebassets\BlazorWebEC.API.StaticWebAssets.Manifest.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\refint\BlazorWebEC.API.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\BlazorWebEC.API.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\BlazorWebEC.API\obj\Debug\net5.0\ref\BlazorWebEC.API.dll

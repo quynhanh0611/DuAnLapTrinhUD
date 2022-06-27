@@ -1,0 +1,24 @@
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ViewModelCommon.deps.json
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ViewModelCommon.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ref\ViewModelCommon.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ViewModelCommon.pdb
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.csproj.AssemblyReference.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.AssemblyInfoInputs.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.AssemblyInfo.cs
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.csproj.CoreCompileInputs.cache
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ref\ViewModelCommon.dll
+C:\Users\tienanh\source\repos\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ViewModelCommon.deps.json
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ViewModelCommon.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\bin\Debug\net5.0\ViewModelCommon.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\refint\ViewModelCommon.dll
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ViewModelCommon.pdb
+C:\Users\ADMIN\Desktop\Chip\Lập trình ứng dụng web\BlazorWebEC\ViewModelCommon\obj\Debug\net5.0\ref\ViewModelCommon.dll

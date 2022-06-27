@@ -1,0 +1,40 @@
+﻿@page "/CreateProduct"
+@using BlazorWebEC.Services;
+@inject IProductApiClient ProductApiClient;
+@inject NavigationManager NavigationManager;
+@using ViewModelCommon
+<h3>CreateProduct</h3>
+<EditForm Model="Product" OnValidSubmit="SubmitTask">
+    <div class="form-group">
+        <label for="Name">Id</label>
+        <InputNumber class="form-control" @bind-Value="Product.Id"></InputNumber>
+        <small id="nameHelp" class="form-text text-muted">Please enter product id here.</small>
+    </div>
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <InputText class="form-control" @bind-Value="Product.Name"></InputText>
+        <small id="nameHelp" class="form-text text-muted">Please enter product name here.</small>
+    </div>
+    <div class="form-group">
+        <label for="Name">Price</label>
+        <InputNumber class="form-control" @bind-Value="Product.Price"></InputNumber>
+        <small id="nameHelp" class="form-text text-muted">Please enter product price here.</small>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+
+@code {
+    private ProductRequest Product = new ProductRequest();
+
+    private async Task SubmitTask(EditContext context)
+    {
+        var result = await ProductApiClient.CreateProduct(Product);
+        if (result)
+        {
+            NavigationManager.NavigateTo("/ProductList");
+        }
+    }
+}
+
+
+
